@@ -6,4 +6,6 @@ local PlaceId = game.PlaceId
          loadstring(game:HttpGet"https://raw.githubusercontent.com/MakaCheese/Sec/main/BABFT")()
     elseif PlaceId == 10930107823 then -- DBB
          loadstring(game:HttpGet"https://raw.githubusercontent.com/MakaCheese/Sec/main/DBB")()
+             elseif PlaceId == 12629753855 then -- NNOW
+         loadstring(game:HttpGet"https://raw.githubusercontent.com/MakaCheese/Sec/main/NNOW")()
 end    
